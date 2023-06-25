@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Bentley",
+    "model": "Brooklands",
+    "year": 2009,
+    "price": "276.71",
+    "img": "https://avatars.mds.yandex.net/get-vertis-journal/4212087/Bentley-Continental_GT_Mulliner-2023-1600-02.jpg_1655881122572/orig"
+  },
+  {
+    "id": 2,
+    "name": "Suzuki",
+    "model": "Sidekick",
+    "year": 1998,
+    "price": "1041.90",
+    "img": "https://rg.ru/uploads/images/203/26/66/3644307.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mazda",
+    "model": "626",
+    "year": 1991,
+    "price": "591.24",
+    "img": "https://paultan.org/image/2021/04/2021-Mazda-6-update-Malaysia-official-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "GMC",
+    "model": "Terrain",
+    "year": 2012,
+    "price": "1382.63",
+    "img": "https://motor.ru/imgs/2022/05/03/20/5389969/f8803463db258789c169079a2c73e060977c1012.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Isuzu",
+    "model": "Ascender",
+    "year": 2008,
+    "price": "451.20",
+    "img": "https://imgcdnblog.carbay.com/wp-content/uploads/2015/05/11114227/2014-Isuzu-MU-X.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Volvo",
+    "model": "C70",
+    "year": 2009,
+    "price": "1518.61",
+    "img": "https://www.topgear.com/sites/default/files/2023/03/1%20Volvo%20XC90.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Kia",
+    "model": "Optima",
+    "year": 2007,
+    "price": "1343.53",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/00_kia_k5_3_0.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Porsche",
+    "model": "928",
+    "year": 1987,
+    "price": "1267.50",
+    "img": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_1290x726/dam/pnr/porsche_newsroom/Produkte/Cayenne/b-16-9-P17_0250_fine.jpg/jcr:content/b-16-9-P17_0250_fine.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Pontiac",
+    "model": "Trans Sport",
+    "year": 1997,
+    "price": "1894.48",
+    "img": "https://www.topgear.com/sites/default/files/2023/03/Retro-Designs-TLC-4x4-Pontiac-Trans-Am-LS3-02.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Nissan",
+    "model": "Altima",
+    "year": 2008,
+    "price": "1084.88",
+    "img": "https://media.ed.edmunds-media.com/nissan/rogue/2023/oem/2023_nissan_rogue_4dr-suv_platinum_fq_oem_1_600.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Acura",
+    "model": "TL",
+    "year": 2001,
+    "price": "1108.42",
+    "img": "https://www.autoguide.com/blog/wp-content/uploads/2022/11/2023-acura-integra.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Ford",
+    "model": "Crown Victoria",
+    "year": 2000,
+    "price": "521.33",
+    "img": "https://3dnews.ru/assets/external/illustrations/2022/04/28/1064840/ford_01.jpg"
+  }
+]
